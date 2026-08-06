@@ -65,4 +65,5 @@ Implemented core DAX measures to drive the KPI cards and visuals. Examples inclu
 - Data Storytelling
 
 ---
-**Contact:** [Your Name/LinkedIn/Email]
+---
+**Contact:** Thawatchai Dakeao | ✉️ ctrl.logic.feng@gmail.com
