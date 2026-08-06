@@ -1,5 +1,7 @@
 # 📊 Sales Performance Analytics Dashboard
 
+![Executive Overview](screenshots/01-executive-overview.png)
+
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-1E88E5?style=for-the-badge&logo=data&logoColor=white)
 
@@ -31,7 +33,7 @@ The management team lacked a centralized view of sales performance across differ
 ### Executive Overview
 *(Provides a high-level summary of key performance indicators, sales by category, yearly trends, top employees, and geographical sales distribution.)*
 
-![Executive Overview](screenshots/01-executive-overview.png)
+*(See top image)*
 
 ## 🏗️ Data Model
 The project utilizes a **Star Schema** to optimize query performance and ensure accurate filtering across visualizations.
@@ -64,6 +66,5 @@ Implemented core DAX measures to drive the KPI cards and visuals. Examples inclu
 - ETL Processes (Extract, Transform, Load)
 - Data Storytelling
 
----
 ---
 **Contact:** Thawatchai Dakeao | ✉️ ctrl.logic.feng@gmail.com
